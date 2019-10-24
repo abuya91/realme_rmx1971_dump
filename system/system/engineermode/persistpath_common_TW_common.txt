@@ -1,0 +1,6 @@
+data/app/com.qidian.QDReader.traditional
+data/app/com.vova.android
+data/app/com.mobisystems.office
+data/app/com.qiyi.video
+data/app/ctrip.english
+data/app/com.haochang.party
