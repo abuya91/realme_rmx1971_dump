@@ -1,0 +1,3 @@
+com.qidian.Int.reader
+com.lazada.android
+com.mobisystems.office

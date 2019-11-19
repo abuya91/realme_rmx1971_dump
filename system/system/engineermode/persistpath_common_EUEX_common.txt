@@ -1,0 +1,3 @@
+data/app/org.kman.AquaMail
+data/app/com.mobisystems.office
+data/app/FacebookStub

@@ -1,0 +1,6 @@
+com.michong.party
+qiyioemkey.ini
+MobiSystems_AquaMail_OPPO.txt
+preinstall-oppo.txt
+qdtraditional_preinstall.txt
+vova_appchannel.txt
