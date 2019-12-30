@@ -1,0 +1,6 @@
+com.qidian.QDReader.traditional
+com.vova.android
+com.mobisystems.office
+com.qiyi.video
+ctrip.english
+com.haochang.party
