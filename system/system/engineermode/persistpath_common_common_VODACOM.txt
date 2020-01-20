@@ -1,0 +1,9 @@
+data/app/com.dstvmobile.android
+data/app/com.example.vodacomlitelauncher
+data/app/co.za.vodacom.android.app.music
+data/app/co.za.vodacom.android.app.games
+data/app/com.showmax.app
+data/app/com.supersport.android.phone
+data/app/com.avs.vodacom
+data/app/mobi.vodacom.appworld
+data/app/com.oltio.vodapay.masterpass

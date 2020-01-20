@@ -1,0 +1,2 @@
+org.kman.AquaMail
+com.mobisystems.office

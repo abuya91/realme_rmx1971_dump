@@ -1,0 +1,3 @@
+data/app/com.qidian.Int.reader
+data/app/com.lazada.android
+data/app/com.mobisystems.office
