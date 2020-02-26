@@ -1,0 +1,9 @@
+com.dstvmobile.android
+com.example.vodacomlitelauncher
+co.za.vodacom.android.app.music
+co.za.vodacom.android.app.games
+com.showmax.app
+com.supersport.android.phone
+com.avs.vodacom
+mobi.vodacom.appworld
+com.oltio.vodapay.masterpass
